@@ -80,7 +80,7 @@ const handleSumbit = async (e) => {
 
   // fetch data
 
-  const response = await fetch('https://craig-wyq2.onrender.com', {
+  const response = await fetch('https://craiggg.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
